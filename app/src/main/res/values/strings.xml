@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Word Suggestions</string>
+    <string name="suggestions_input_hint">Enter text to autocomplete</string>
 </resources>
